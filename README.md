@@ -1,4 +1,4 @@
-# Token Creation - Smart Contract
+# Token Creation - A Smart Contract
 
 This Solidity program is a simple "Token Creation" program that demonstrates the basic syntax and functionality of the Solidity programming language. 
 
